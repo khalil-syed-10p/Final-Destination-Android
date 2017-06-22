@@ -16,7 +16,6 @@ import com.hacareem.finaldestination.R;
 import com.hacareem.finaldestination.adapters.LocationRecyclerAdapter;
 import com.hacareem.finaldestination.entities.SuggestionsResponse;
 
-import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
 

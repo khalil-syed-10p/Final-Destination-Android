@@ -3,12 +3,10 @@ package com.hacareem.finaldestination.webservice;
 import android.content.Context;
 
 import com.hacareem.finaldestination.R;
-import com.hacareem.finaldestination.webservice.GooglePlaceSearchService;
 import com.hacareem.finaldestination.webservice.converters.ServiceConverterFactory;
 
 import java.io.IOException;
 import java.net.ProtocolException;
-import java.util.AbstractMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
